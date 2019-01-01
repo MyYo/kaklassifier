@@ -1,5 +1,4 @@
-#Timestamp,Royal Canin Lowfat Can (13.6oz),Sweet Potato (11.5oz),Golden Potato (5.2oz),Outcome,Were We Sleeping / Jake Was Alone Just Before,Was it an Accident?,Notes
-,timestamp,can,sweet,golden,outcome,alone,accident,notes,poop,feed
+Timestamp,Royal Canin Lowfat Can (13.6oz),Sweet Potato (11.5oz),Golden Potato (5.2oz),Outcome,Were We Sleeping / Jake Was Alone Just Before,Was it an Accident?,Notes,Poop Event,Feed Event
 0,1545929878,2.0,1.0,1.0,,,,,False,True
 1,1545930646,,,,2,,,Outside ,True,False
 2,1545943282,2.0,1.0,1.0,,,,,False,True
